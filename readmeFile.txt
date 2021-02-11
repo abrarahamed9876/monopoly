@@ -17,6 +17,8 @@ this call will make player B play
 If a player plays dies and get 
 the game is designed such that which player reach cashprize of 500 then he will win the game and game ends.
 
+made changes
+
 
 
 
